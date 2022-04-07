@@ -2,4 +2,4 @@
 
 Projet en cours pour creer un patch switcher pour bfme1
 
-https://bit.ly/laterredumilieu
+https://laterredumilieu.fr
