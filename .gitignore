@@ -1,1 +1,15 @@
-switcher/*
+-.git/*
+.vs/*
+/1.00/*
+/1.03/*
+/1.06/*
+/1.08/*
+/x64/Debug/*
+/x64/Release/1.00/*
+/x64/Release/1.03/*
+/x64/Release/1.06/*
+/x64/Release/1.08/*
+BFME Switcher.sln
+BFME Switcher.vcxproj
+BFME Switcher.vcxproj.filters
+BFME Switcher.vcxproj.user
