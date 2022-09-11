@@ -1,5 +1,9 @@
 # BFME1-patchswitcher
-
-Projet en cours pour creer un patch switcher pour bfme1
+Code source du patch switcher de BFME
+Changement de version permis:
+	1.00
+	1.03
+	1.06
+	1.08
 
 https://laterredumilieu.fr
